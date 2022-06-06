@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerMasterKotlin</string>
+    <string name="helloWorl">Hello World!</string>
 </resources>
